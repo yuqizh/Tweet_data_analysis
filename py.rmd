@@ -1,7 +1,7 @@
 ---
-title: "py"
+title: "Part 1: Python Coding"
 author: "Yuqi Zhao"
-date: "4/25/2021"
+date: "4/20/2021"
 output: html_document
 ---
 

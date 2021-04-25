@@ -4,9 +4,9 @@ navbar:
   left:
     - text: "Project Summary"
       href: index.html
-    - text: "Python Part"
+    - text: "Part 1: Python Coding"
       href: py.html
-    - text: "R Part"
+    - text: "Part 2: R Coding"
       href: r.html
       
 output:
