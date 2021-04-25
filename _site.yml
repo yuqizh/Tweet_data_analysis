@@ -1,11 +1,13 @@
-name: "my-website"
+name: "BDS 516 Homework 09: Twitter Data Analysis"
 navbar:
-  title: "My Website"
+  title: "BDS 516 Homework 09: Twitter Data Analysis"
   left:
-    - text: "Home"
+    - text: "Project Summary"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Python Part"
+      href: py.html
+    - text: "R Part"
+      href: r.html
       
 output:
   html_document:
