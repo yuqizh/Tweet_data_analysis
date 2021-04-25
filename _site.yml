@@ -1,15 +1,25 @@
 name: "BDS 516 Homework 09: Twitter Data Analysis"
 navbar:
   title: "BDS 516 Homework 09: Twitter Data Analysis"
+  type: inverse
   left:
     - text: "Project Summary"
       href: index.html
     - text: "Part 1: Python Coding"
-      href: py.html
+      href: HW9_python.html
     - text: "Part 2: R Coding"
       href: r.html
-      
+                
+          
 output:
-  html_document:
-    themes: simplex
-    hightlight: github
+  rmdformats::downcute:
+    fig_width: 1
+    fig_height: 1
+    toc: 2
+    use_bookdown: true
+    fig_caption: true
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
