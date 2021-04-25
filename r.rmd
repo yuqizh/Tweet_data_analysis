@@ -1,5 +1,5 @@
 ---
-title: "Part2: R Coding"
+title: "R Coding"
 author: "Yuqi Zhao"
 date: "4/20/2021"
 output: html_document
